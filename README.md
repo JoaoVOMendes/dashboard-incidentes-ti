@@ -70,11 +70,6 @@ DIVIDE(
 )
 ```
 
-## 🚀 Próximos Passos
-
-- **Projeto 2:** modelagem relacional em SQL com análises avançadas de reincidência e correlação prioridade × tempo de resolução.
-- **Projeto 3:** pipeline end-to-end em Python com detecção de anomalias e validação automatizada da qualidade dos dados.
-
 ## 👤 Autor
 
 **João Victor Oliveira Mendes**  
