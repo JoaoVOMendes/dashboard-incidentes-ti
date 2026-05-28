@@ -1,0 +1,16 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Power BI temporários
+~$*.pbix
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# VS Code
+.vscode/
